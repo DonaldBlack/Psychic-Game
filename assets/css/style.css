@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-image:url("../images/Psychic-Reader.gif");
+    background-size: 1440px 800px;
+    background-repeat:no-repeat;
+    display: compact;
+    font: 25px/36px "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+}
+
+.container-fluid  {
+    color: white;
+}
